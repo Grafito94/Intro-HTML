@@ -1,0 +1,50 @@
+/*
+SELECTORES
+
+etiqueta {
+    propiedad: valor;
+}
+
+*/
+
+/*
+
+.clase{
+    propiedad: valor;
+}
+
+*/
+
+/*
+
+#id{
+    propiedad: valor;
+}
+
+*/
+h2{
+    color: red;
+}
+
+.parrafo {
+    border: 2px dotted blue;
+}
+
+#enlace{
+    text-decoration:  line-through;
+    cursor: progress;
+}
+
+#casado {
+    width: 100px
+    
+}
+
+.parrafo strong { /*Seleccionamos un strong que este dentro de la clase parrafo*/
+    text-transform: uppercase;
+}
+
+.container > p { /*descendiente directo*/
+
+    
+}
